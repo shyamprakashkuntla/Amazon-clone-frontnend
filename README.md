@@ -2,10 +2,6 @@
 
 This is a simple front-end clone of the Amazon homepage built using only **HTML** and **CSS**. It replicates the layout and design elements of Amazon, including the navbar, search bar, product boxes, and footer — perfect for learning HTML & CSS layout techniques.
 
-## 📸 Demo Screenshot
-
-![Amazon Clone Screenshot](screenshot.png) <!-- Add a real screenshot with this file name -->
-
 ## 💡 Features
 
 - Amazon-style **navbar** with logo, location, search bar, cart, and account
